@@ -1,4 +1,3 @@
-// script.js
 const slider = document.getElementById('slider');
 const image = document.getElementById('image');
 
